@@ -1,0 +1,7 @@
+flask
+numpy
+pillow
+rasterio
+fiona
+shapely
+ultralytics
