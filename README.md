@@ -132,8 +132,6 @@ run_end_to_end(
 | Fabrice | Miangavy an'i Steeve mba handihy eo ampovoany | |
 | LazaHarifetra | Mpampianatra : Manome inona ny Omby? Soa : Manome ronono madama, Mpampianatra: manome inona ny akoho, Soa : manome atody madama......, Mpampianatra: manome inona ny Kisoa, Soa: Manome devoir madama | |
 | Angelo | Lohateny: Fampandrosoana haingana sy maharitra, Nifampiresaka izy mianaka (D/Z), Z: Dada ah, ividiano caca pigeon aho., D: Hay ianao tia caca pigeon be?, Z: Eny ry Dada, D: Aleo fa hividianako pigeon ianao ary! | |
+| Tojo | Mety ingenieur civil angamba ny Tompo satria nataony nifanakaiky ny kilalao sy fanariam-pako | |
 
 ampoule 
-
-
-- Mety ingenieur civil angamba ny Tompo satria nataony nifanakaiky ny kilalao sy fanariam-pako
