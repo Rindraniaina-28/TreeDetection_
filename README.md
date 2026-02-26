@@ -119,6 +119,9 @@ run_end_to_end(
 ## License: TBD
 
 ## Add a funny joke below here
+| Name / Nom | Joke in Malagasy / Blague en Malagasy | Translation / Traduction |
+|------------|---------------------------------------|--------------------------|
+| Steven Longmore | Nahoana ny lemur no tsy mampiasa ordinatera? Satria matahotra ny "mouse" izy! | Why don't lemurs use computers? Because they're afraid of the mouse! |
 
 # Zaza: "Dada ô, nahoana isika no tsy manan-karena?"
 # Dada: "Satria isika tsy manana vola, anaka."
