@@ -120,8 +120,6 @@ run_end_to_end(
 
 ## Add a funny joke below here
 
-
-
 | Name / Nom | Joke in Malagasy / Blague en Malagasy | Translation / Traduction |
 |------------|---------------------------------------|--------------------------|
 | Steven Longmore | Nahoana ny lemur no tsy mampiasa ordinatera? Satria matahotra ny "mouse" izy! | Why don't lemurs use computers? Because they're afraid of the mouse! |
@@ -129,6 +127,7 @@ run_end_to_end(
 | NahojRavelo | “Anaka, inona no tianao hatao rehefa lehibe ianao ?” “Te ho mpamily fiara aho dada.” “Fa maninona ?” “Satria na tara aza dia mbola lazaina hoe ‘tonga ara-potoana’ ” “Ahoana izany ?” “Satria hoe : tonga ihany!” | |
 | Tahiana | Mpampianatra : Iza no mahay miteny ahy hoe inona no atao hoe “Fahanginana” Mpianatra : Tsy haiko, Ramose… fa rehefa mangina izahay dia ianao no tsy mangina | |
 | MikaRandrianasolo | Rabofy: Fa aiza le télé sy le frigo teto ? Za efa aty am La Résidence Ankerana miaraka am drone manatrika anle atelier | |
+| Tsiky | “Fa maninona ianao no mihomehy irery?” “Satria lafo be ny data, ka aleoko mihomehy irery toy izay hizara vazivazy!” | |
 
 ampoule 
 
