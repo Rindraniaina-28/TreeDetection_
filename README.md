@@ -119,6 +119,21 @@ run_end_to_end(
 ## License: TBD
 
 ## Add a funny joke below here
-Inona no mahasamy hafa ny olona adala sy ny ny tsy adala, satria ny olona adala iany tsy miheritreritra hoe adala izy, fa ny olona tsy adala mieritreritra foana hoe sao dia ho lasa adala.
 
-Le taikalahy ty, Hingaiko ny rambon'omby dia ianao no hitako ao, 
+| Name / Nom | Joke in Malagasy / Blague en Malagasy | Translation / Traduction |
+|------------|---------------------------------------|--------------------------|
+| Steven Longmore | Nahoana ny lemur no tsy mampiasa ordinatera? Satria matahotra ny "mouse" izy! | Why don't lemurs use computers? Because they're afraid of the mouse! |
+| RAOELIARIMANANA | Rehefa manao régime hono dia tsy mihinana intsony… fa manandrana tsiro fotsiny impiry impiry isan’andro| |
+| NahojRavelo | “Anaka, inona no tianao hatao rehefa lehibe ianao ?” “Te ho mpamily fiara aho dada.” “Fa maninona ?” “Satria na tara aza dia mbola lazaina hoe ‘tonga ara-potoana’ ” “Ahoana izany ?” “Satria hoe : tonga ihany!” | |
+| Tahiana | Mpampianatra : Iza no mahay miteny ahy hoe inona no atao hoe “Fahanginana” Mpianatra : Tsy haiko, Ramose… fa rehefa mangina izahay dia ianao no tsy mangina | |
+| MikaRandrianasolo | Rabofy: Fa aiza le télé sy le frigo teto ? Za efa aty am La Résidence Ankerana miaraka am drone manatrika anle atelier | |
+| Tsiky | “Fa maninona ianao no mihomehy irery?” “Satria lafo be ny data, ka aleoko mihomehy irery toy izay hizara vazivazy!” | |
+| Fabrice | Miangavy an'i Steeve mba handihy eo ampovoany | |
+| LazaHarifetra | Mpampianatra : Manome inona ny Omby? Soa : Manome ronono madama, Mpampianatra: manome inona ny akoho, Soa : manome atody madama......, Mpampianatra: manome inona ny Kisoa, Soa: Manome devoir madama | |
+| Angelo | Lohateny: Fampandrosoana haingana sy maharitra, Nifampiresaka izy mianaka (D/Z), Z: Dada ah, ividiano caca pigeon aho., D: Hay ianao tia caca pigeon be?, Z: Eny ry Dada, D: Aleo fa hividianako pigeon ianao ary! | |
+| Tojo | Mety ingenieur civil angamba ny Tompo satria nataony nifanakaiky ny kilalao sy fanariam-pako | |
+| MamitianaRaks | Inona no mahasamy hafa ny olona adala sy ny ny tsy adala, satria ny olona adala iany tsy miheritreritra hoe adala izy, fa ny olona tsy adala mieritreritra foana hoe sao dia ho lasa adala. Le taikalahy ty, Hingaiko ny rambon'omby dia ianao no hitako ao, | |
+
+
+ampoule 
+
