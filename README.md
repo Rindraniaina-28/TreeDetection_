@@ -128,3 +128,5 @@ run_end_to_end(
 | NahojRavelo | “Anaka, inona no tianao hatao rehefa lehibe ianao ?” “Te ho mpamily fiara aho dada.” “Fa maninona ?” “Satria na tara aza dia mbola lazaina hoe ‘tonga ara-potoana’ ” “Ahoana izany ?” “Satria hoe : tonga ihany!” | |
 | Tahiana | Mpampianatra : Iza no mahay miteny ahy hoe inona no atao hoe “Fahanginana” Mpianatra : Tsy haiko, Ramose… fa rehefa mangina izahay dia ianao no tsy mangina | |
 
+ampoule 
+
