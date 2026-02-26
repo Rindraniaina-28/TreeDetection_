@@ -131,6 +131,8 @@ run_end_to_end(
 | Tsiky | “Fa maninona ianao no mihomehy irery?” “Satria lafo be ny data, ka aleoko mihomehy irery toy izay hizara vazivazy!” | |
 | Fabrice | Miangavy an'i Steeve mba handihy eo ampovoany | |
 | LazaHarifetra | Mpampianatra : Manome inona ny Omby? Soa : Manome ronono madama, Mpampianatra: manome inona ny akoho, Soa : manome atody madama......, Mpampianatra: manome inona ny Kisoa, Soa: Manome devoir madama | |
+| Angelo | Lohateny: Fampandrosoana haingana sy maharitra, Nifampiresaka izy mianaka (D/Z), Z: Dada ah, ividiano caca pigeon aho., D: Hay ianao tia caca pigeon be?, Z: Eny ry Dada, D: Aleo fa hividianako pigeon ianao ary! | |
 
 ampoule 
+
 
