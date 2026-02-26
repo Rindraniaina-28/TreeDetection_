@@ -121,4 +121,7 @@ run_end_to_end(
 Miangavy an'i Steeve mba handihy eo ampovoany
 
 ## Add a funny joke below here
+| Name / Nom | Joke in Malagasy / Blague en Malagasy | Translation / Traduction |
+|------------|---------------------------------------|--------------------------|
+| Steven Longmore | Nahoana ny lemur no tsy mampiasa ordinatera? Satria matahotra ny "mouse" izy! | Why don't lemurs use computers? Because they're afraid of the mouse! |
 
