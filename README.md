@@ -119,4 +119,10 @@ run_end_to_end(
 ## License: TBD
 
 ## Add a funny joke below here
+Lohateny: Fampandrosoana haingana sy maharitra
+Nifampiresaka izy mianaka (D/Z)
+Z: Dada ah, ividiano caca pigeon aho.
+D: Hay ianao tia caca pigeon be?
+Z: Eny ry Dada
+D: Aleo fa hividianako pigeon ianao ary!
 
