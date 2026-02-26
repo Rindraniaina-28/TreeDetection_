@@ -123,7 +123,7 @@ run_end_to_end(
 |------------|---------------------------------------|--------------------------|
 | Steven Longmore | Nahoana ny lemur no tsy mampiasa ordinatera? Satria matahotra ny "mouse" izy! | Why don't lemurs use computers? Because they're afraid of the mouse! |
 
-# Zaza: "Dada ô, nahoana isika no tsy manan-karena?"
-# Dada: "Satria isika tsy manana vola, anaka."
-# Zaza: "Fa nahoana isika no tsy manana vola?"
-# Dada: "Satria isika tsy manan-karena!"
+Zaza: "Dada ô, nahoana isika no tsy manan-karena?"
+Dada: "Satria isika tsy manana vola, anaka."
+Zaza: "Fa nahoana isika no tsy manana vola?"
+Dada: "Satria isika tsy manan-karena!"
