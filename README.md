@@ -133,11 +133,9 @@ run_end_to_end(
 | Angelo | Lohateny: Fampandrosoana haingana sy maharitra, Nifampiresaka izy mianaka (D/Z), Z: Dada ah, ividiano caca pigeon aho., D: Hay ianao tia caca pigeon be?, Z: Eny ry Dada, D: Aleo fa hividianako pigeon ianao ary! | |
 | Tojo | Mety ingenieur civil angamba ny Tompo satria nataony nifanakaiky ny kilalao sy fanariam-pako | |
 | MamitianaRaks | Inona no mahasamy hafa ny olona adala sy ny ny tsy adala, satria ny olona adala iany tsy miheritreritra hoe adala izy, fa ny olona tsy adala mieritreritra foana hoe sao dia ho lasa adala. Le taikalahy ty, Hingaiko ny rambon'omby dia ianao no hitako ao, | |
+| Maneva | Zaza: "Dada ô, nahoana isika no tsy manan-karena?" Dada: "Satria isika tsy manana vola, anaka." Zaza: "Fa nahoana isika no tsy manana vola?" Dada: "Satria isika tsy manan-karena!" | |
 
 
 ampoule 
 
-Zaza: "Dada ô, nahoana isika no tsy manan-karena?"
-Dada: "Satria isika tsy manana vola, anaka."
-Zaza: "Fa nahoana isika no tsy manana vola?"
-Dada: "Satria isika tsy manan-karena!"
+
