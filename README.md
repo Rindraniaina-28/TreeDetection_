@@ -118,8 +118,6 @@ run_end_to_end(
 
 ## License: TBD
 
-Miangavy an'i Steeve mba handihy eo ampovoany
-
 ## Add a funny joke below here
 
 | Name / Nom | Joke in Malagasy / Blague en Malagasy | Translation / Traduction |
@@ -130,6 +128,7 @@ Miangavy an'i Steeve mba handihy eo ampovoany
 | Tahiana | Mpampianatra : Iza no mahay miteny ahy hoe inona no atao hoe “Fahanginana” Mpianatra : Tsy haiko, Ramose… fa rehefa mangina izahay dia ianao no tsy mangina | |
 | MikaRandrianasolo | Rabofy: Fa aiza le télé sy le frigo teto ? Za efa aty am La Résidence Ankerana miaraka am drone manatrika anle atelier | |
 | Tsiky | “Fa maninona ianao no mihomehy irery?” “Satria lafo be ny data, ka aleoko mihomehy irery toy izay hizara vazivazy!” | |
+| Fabrice | Miangavy an'i Steeve mba handihy eo ampovoany | |
 
 ampoule 
 
