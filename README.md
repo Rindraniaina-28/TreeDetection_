@@ -119,4 +119,10 @@ run_end_to_end(
 ## License: TBD
 
 ## Add a funny joke below here
-
+Mpampianatra : Manome inona ny Omby?
+Soa : Manome ronono madama
+Mpampianatra: manome inona ny akoho
+Soa : manome atody madama
+......
+Mpampianatra: manome inona ny Kisoa
+Soa: Manome devoir madama
