@@ -119,4 +119,6 @@ run_end_to_end(
 ## License: TBD
 
 ## Add a funny joke below here
+Inona no mahasamy hafa ny olona adala sy ny ny tsy adala, satria ny olona adala iany tsy miheritreritra hoe adala izy, fa ny olona tsy adala mieritreritra foana hoe sao dia ho lasa adala.
 
+Le taikalahy ty, Hingaiko ny rambon'omby dia ianao no hitako ao, 
